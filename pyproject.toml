@@ -1,0 +1,12 @@
+[project]
+name = "cve-reproduction-pipeline"
+version = "4.0.0"
+description = "Evidence-backed exact kernel CVE VM targets with NLP-extracted extra configuration"
+requires-python = ">=3.11"
+dependencies = []            # standard library only
+
+[project.scripts]
+cve-pipeline = "cve_pipeline.interfaces.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["cve_pipeline*"]
