@@ -170,5 +170,4 @@ PoC can be run later under the laboratory's separate validation procedure.
 
 See [ARCHITECTURE.md](ARCHITECTURE.md), [USER_GUIDE.md](USER_GUIDE.md), and
 [MEETING_REQUIREMENTS.md](MEETING_REQUIREMENTS.md) for design and traceability.
-For unattended multi-CVE experiments, ground-truth templates, repeat runs, and
-automatic success-rate calculation, see [EVALUATION.md](EVALUATION.md).
+
