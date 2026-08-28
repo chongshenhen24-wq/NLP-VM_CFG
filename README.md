@@ -1,4 +1,4 @@
-# Kernel CVE Reproduction Pipeline (v4)
+# Kernel CVE Reproduction Pipeline
 
 This dissertation prototype converts a kernel CVE ID into an exact,
 evidence-backed vulnerable VM target and a separately generated extra-
