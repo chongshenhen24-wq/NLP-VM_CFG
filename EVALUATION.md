@@ -22,7 +22,7 @@ This avoids treating the system under evaluation as its own reference answer.
 Keep Ollama running, then execute from PowerShell:
 
 ```powershell
-cd "C:\Users\Roy\Documents\Codex\2026-07-22\continue-implementing-the-kernel-aware-full\work\cve-reproduction-pipeline"
+cd "C:\\"
 ollama serve
 ```
 
